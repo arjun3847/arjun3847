@@ -1,4 +1,4 @@
-👋 Hello there, I'm Arjun Khatri, a Software Engineer currently interning at H&R Block.
+👋 Hello there, I'm Arjun Khatri, an aspiring Software Engineer currently interning at H&R Block.
 
 🔭 I’m currently developing a stock trading simulator to combine my development skills with financial interests to gain valuable insights into financial market dynamics, trading strategies and investment principles. 
 
